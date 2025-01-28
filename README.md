@@ -1,3 +1,4 @@
+
 """
 Virtual Mouse Using Python
 ---------------------------
@@ -17,3 +18,4 @@ Prerequisites:
 - OpenCV
 - MediaPipe
 - PyAutoGUI
+![virtual mouse](https://github.com/user-attachments/assets/6bd4fb28-f3f5-4f06-b6ab-5144fc43cc98)
